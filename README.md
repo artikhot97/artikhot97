@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artikhot97
 - 👀 I’m interested in ...learning aws stuffs
-- 🌱 I’m currently learning ...paypal integration
+- 🌱 I’m currently learning ...paypal integration and shopify integration
 - 💞️ I’m looking to collaborate on ...opensouce project which is releated to payment integrations
 - 📫 How to reach me ...khotarti13@gmail.com or https://www.linkedin.com/in/arti-khot-8375a7106
 
