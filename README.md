@@ -1,6 +1,45 @@
-#** 💫 About Me:
-# 👋 Hey, I'm Arti Khot<br>**Senior Software Engineer** | AWS & DevOps | Actively Learning Gen-AI<br><br>---<br><br>## 🎯 About Me<br><br>I build scalable cloud infrastructure and DevOps pipelines. Lately I've been deliberately expanding into **Generative AI** — learning how LLMs work, experimenting with prompt engineering, and integrating AI capabilities into real applications.<br><br>I believe the best way to understand a technology is to **build with it**.<br><br>---<br><br>## 🤖 My AI Learning Path<br><br>> *This is an active, ongoing journey — not a completed skill.*<br><br>| What I'm learning | How I'm approaching it |<br>|---|---|<br>| 🧠 **LLMs & Prompt Engineering** | Building prompts from scratch, studying model reasoning, exploring few-shot and chain-of-thought techniques |<br>| 🔗 **RAG & Agentic Patterns** | Designing systems that retrieve external knowledge and take multi-step actions with LLM backends |<br>| ☁️ **AWS AI Services** | Integrating Amazon Bedrock, SageMaker, and Rekognition into cloud-native pipelines |<br>| 💳 **AI-Powered Fintech** | Exploring how Gen-AI can improve payment UX, fraud detection, and developer tooling |<br><br>---<br><br>## 💻 Tech Stack<br><br>**Cloud & Infrastructure:**<br>```<br>AWS (EC2, S3, Lambda, RDS, CloudFormation, ECS/EKS)<br>Docker | Kubernetes | Terraform | CloudFormation<br>```<br><br>**Languages & Frameworks:**<br>```<br>Python<br>React | REST APIs | GraphQL<br>```<br><br>**DevOps & Tools:**<br>```<br>CI/CD (GitHub Actions, Jenkins, GitLab CI)<br>Monitoring & Logging (CloudWatch, ELK, Prometheus)<br>Git | Linux | Shell Scripting<br>```<br><br>---<br><br>## 🚀 What I'm Currently Working On<br><br>- 🌱 **Deepening AWS expertise** — advanced cloud architecture patterns and certifications<br>- 🤖 **Exploring Gen-AI** — building with LLMs, studying RAG architectures, learning agentic frameworks<br>- 🔌 **Payment integrations** — contributing to open-source fintech projects<br><br>---<br><br>## 🤝 Open to Collaborating On<br><br>- ✅ Open-source payment integration platforms<br>- ✅ AWS-based infrastructure automation projects<br>- ✅ Gen-AI powered applications (especially where cloud + AI intersect)<br>- ✅ Cloud-native development initiatives<br><br>---<br><br>## 📊 GitHub Stats<br><br>![artikhot97's GitHub stats](https://github-readme-stats.vercel.app/api?username=artikhot97&show_icons=true&theme=tokyonight)<br><br>---<br><br>## 📫 Let's Connect<br><br>- **LinkedIn:** [Arti Khot — Senior Software Engineer](https://www.linkedin.com/in/arti-khot-senior-software-engineer)<br>- **Email:** [khotarti13@gmail.com](mailto:khotarti13@gmail.com)<br><br>Cloud architecture, DevOps, or AI experiments — feel free to reach out. 💬<br><br>---<br><br>> ⚡ If a task takes more than 5 minutes, I automate it. Now I'm learning to build the AI that helps figure out what to automate next.<br>**
+# 👋 Arti Khot
 
+### Senior Software Engineer | Python • FastAPI • Cloud & DevOps | Learning Generative AI
+
+---
+
+## 🚀 About Me
+
+- Senior Software Engineer with experience in scalable cloud infrastructure and backend systems
+- Strong background in Python, FastAPI, GraphQL , AWS, and Test
+- Currently learning Generative AI, LLMs, RAG systems, and AI-powered applications
+- Passionate about building practical, production-ready solutions
+
+---
+
+## 🤖 Currently Learning
+
+- LLMs & Prompt Engineering
+- RAG (Retrieval-Augmented Generation)
+- Agentic AI Workflows
+- AWS AI Services (Bedrock, SageMaker, Rekognition)
+- AI-powered fintech and developer tools
+
+---
+
+## 💻 Tech Stack
+```bash
+Python | FastAPI | REST APIs | GraphQL
+
+AWS (EC2, S3, Lambda, RDS, ECS/EKS)
+Docker | Kubernetes | Terraform | CloudFormation
+
+GitHub Actions | Jenkins | GitLab CI
+Prometheus | ELK Stack | Linux | Shell Scripting
+
+🔨 Current Focus
+
+* Advanced AWS architecture and cloud-native systems
+* Building AI applications using LLMs and RAG
+* Exploring agentic AI frameworks
+* Contributing to fintech and automation projects
+```
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arti-khot) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Arti) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Arti khot) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khotarti13@gmail.com) 
